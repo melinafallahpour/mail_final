@@ -3,7 +3,6 @@ Cs50 Mail Project
 
  A single page web application for sending and receiving emails for a CS50 web programming course project
 
-#### [Project #3 "Mail" Demo Video]((https://youtu.be/EIi1Inut9fc))
 
 
 # Specification
