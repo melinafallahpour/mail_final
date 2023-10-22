@@ -46,4 +46,4 @@ Pre-fill the body of the email with a line like "On Jan 1 2023, 12:00 AM foo@exa
 
 [Live App](https://melinafallahpour.pythonanywhere.com/)
 
-![alt text](img/todoHome.jpg "App Preview")
+![alt text](inbox.jpeg "App Preview")
